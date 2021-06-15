@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
   "author": "Bishal Udash",
+  "description": "A wrapper project for google maps api",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
