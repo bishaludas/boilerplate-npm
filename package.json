@@ -1,0 +1,20 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Bishal Udash",
+	"description": "A wrapper project for google maps api",
+  "keywords": [ "freecodecamp", "Google maps", "wrapper" ],
+  "license": "MIT",
+  "version": "2.10.2",
+	"dependencies": {
+		"express": "^4.14.0",
+    "moment": "2.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
